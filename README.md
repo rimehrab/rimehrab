@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Tricky Store<br>🤝 I’m looking for help with Keybox addons<br>🌱 I’m currently learning C++<br>💬 Ask me about anything not personal though<br>⚡ Fun fact I am a 18 yrs old kid
+🔭 I’m currently working on Tricky Store🌱 I’m currently learning C++<br>💬 Ask me about anything not personal though<br>⚡ Fun fact I am a 18 yrs old kid
 
 
 ## 🌐 Socials:
