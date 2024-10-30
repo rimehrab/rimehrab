@@ -21,7 +21,7 @@
 ---
 
 ### 📧 Email Contacts  
-- ~~admin@mehrab.com~~ (Currently inactive, but might revive)  
+- ~~admin@mehrab.com~~ (Domain name sold)
 - **mdk302@duck.com**  
 - **creator@eay.jp**  
 
