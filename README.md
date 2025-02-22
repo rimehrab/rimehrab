@@ -29,7 +29,7 @@
 ---
 
 ## My Email 💌  
-- **creator@eay.jp** (official creator email!) ✨  
+- **creator@eay.jp** ✨  
 - **mdk302@duck.com** (just another one for fun!)  
 
 ---
