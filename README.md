@@ -21,6 +21,7 @@
     <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-social-media-social-media-flaticons-lineal-color-flat-icons.png" alt="Social Media Icons" style="width: 60px;"/>
 </p>
 
+- **Website**: https://rimehrab.github.io/
 - **Telegram**: [@itsrimehrab](https://t.me/itsrimehrab) 📱  
 - **Instagram**: [@rimehrab](https://instagram.com/rimehrab) 📸  
 - **LinkedIn**: [rimehrab](https://linkedin.com/in/rimehrab) 💼  
@@ -29,6 +30,7 @@
 ---
 
 ## My Email 💌  
+- **rimehrab@pissmail.com** ♥️
 - **creator@eay.jp** ✨  
 - **mdk302@duck.com** (just another one for fun!)  
 
