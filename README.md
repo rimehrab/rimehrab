@@ -47,6 +47,6 @@
     onmouseover="this.style.transform='scale(1.1)'"
     onmouseout="this.style.transform='scale(1)'"
   >
-    ✨ Visit my site! ✨
+    ✨ Feel free to visit my site! ✨
   </a>
 </div>
