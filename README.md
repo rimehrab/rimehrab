@@ -19,6 +19,7 @@
 <div align="center">
   <img
     src="./assets/rekson-render.png"
-    style="max-width: 500px; width: 100%; height: auto;"
+    width="300"
+    style="max-width: 100%; height: auto;"
   />
 </div>
