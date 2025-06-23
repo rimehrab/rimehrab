@@ -8,10 +8,10 @@
   I'm Mehrab Mahmud Udoy (Ferris)
 </p>
 <p align="center">
-  I'm just getting started in the world of web development. I'm excited to learn and explore what I can create.
+  I'm a newbie, I'm excited to learn and explore what I can create.
 </p>
 <p align="center">
-  👀 Into Frontend Web Development - 🎧 I’m into anime-style music and chill vibes~
+  👀 Into Frontend Web Development (i think)- 🎧 also into anime-style music
 </p>
 <p align="center">
   🚀 Trying to learn more every day - 🤓 Feel free to ask, I’m glad if I can help 🌴
@@ -47,6 +47,6 @@
     onmouseover="this.style.transform='scale(1.1)'"
     onmouseout="this.style.transform='scale(1)'"
   >
-    ✨ Feel free to visit my site! ✨
+    ✨ You can visit my site! ✨
   </a>
 </div>
