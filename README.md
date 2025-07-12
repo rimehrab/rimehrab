@@ -5,7 +5,7 @@
 <h1 align="center">Hello - Henlo - Glad to see you here!</h1>
 
 <p align="center">
-  I'm Mehrab Mahmud Udoy [(@rimehrab)](#)
+  I'm Mehrab Mahmud Udoy ((@rimehrab))[#]
 </p>
 <p align="center">
   I'm a newbie, I'm excited to learn and explore what I can create.
